@@ -2,20 +2,20 @@
 <html>
 <head>
 <meta charset="utf-8"> 
-<title>²ËÄñ½Ì³Ì(runoob.com)</title>
+<title>èœé¸Ÿæ•™ç¨‹(runoob.com)</title>
 <script src="http://cdn.static.runoob.com/libs/jquery/1.10.2/jquery.min.js">
 </script>
 <script>
 $(document).ready(function(){
   $("p").click(function(){
-   alert("¶ÎÂä±»µã»÷ÁË¡£");
+   alert("æ®µè½è¢«ç‚¹å‡»äº†ã€‚");
   });
 });
 </script>
 </head>
 <body>
 
-<p>µã»÷Õâ¸ö¶ÎÂä¡£</p>
-
+<p>ç‚¹å‡»è¿™ä¸ªæ®µè½ã€‚</p>
+<p>æˆ‘æ˜¯æ®µ</p>
 </body>
 </html>
