@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8"> 
@@ -17,5 +17,6 @@ $(document).ready(function(){
 
 <p>点击这个段落。</p>
 <p>我是段</p>
+<p>你是许</p>
 </body>
 </html>
